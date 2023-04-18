@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+FELL+Double+Pica+SC:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IM+FELL+Double+Pica:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inika: Inika;
+  --font-inter: Inter;
+  --font-im-fell-double-pica-sc: "IM FELL Double Pica SC";
+  --font-jost: Jost;
+  --font-im-fell-double-pica: "IM FELL Double Pica";
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-109xl: 128px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-orange: #ffaa00;
+  --color-burlywood-100: #e9c77f;
+  --color-burlywood-200: #d7bf7e;
+  --color-khaki: #efcd7f;
+  --color-gray-100: rgba(0, 0, 0, 0.73);
+  --color-gray-200: rgba(255, 255, 255, 0.38);
+  --color-gray-300: rgba(0, 0, 0, 0.44);
+  --color-goldenrod-100: #f6b531;
+
+  /* Paddings */
+  --padding-7xs: 6px;
+}
